@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Asia-motors/.idea/Asia-motors.iml" filepath="$PROJECT_DIR$/../Asia-motors/.idea/Asia-motors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lada.iml" filepath="$PROJECT_DIR$/.idea/lada.iml" />
+    </modules>
+  </component>
+</project>
